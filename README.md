@@ -1,4 +1,4 @@
-Hey everyone! I'm super excited to show you my another project - a ToDo list!
+Hey everyone! I'm super excited to show you my latest project - a ToDo list!
 
 This is my fifth website, and I'm really proud of how it turned out.
 
