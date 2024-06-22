@@ -2,7 +2,7 @@ Hey everyone! I'm super excited to show you my latest project - a ToDo list!
 
 This is my fifth website, and I'm really proud of how it turned out.
 
-You can check it out here: https://learnmore-smart.github.io/Stop-Watch/
+You can check it out here: https://learnmore-smart.github.io/ToDo-list/
 
 Here’s some cool stuff I learned and included:
 
